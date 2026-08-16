@@ -8,6 +8,8 @@
 
 | Project | What it shows |
 |---|---|
+| **[soundlabel](https://github.com/hycccc/soundlabel)** 🚧 | Open-source framework for running an AI music label — listening rooms, three-tier scoring, a multi-agent A&R loop, pluggable generation backends. The mothership the projects below plug into. |
+| **[claude-oncall](https://github.com/hycccc/claude-oncall)** | Production sidecar pattern for the Claude Agent SDK: git-snapshot revert, context aggregation with freshness budgets, cost-annotated opt-in autonomy. |
 | **[musicgen-if-eval](https://github.com/hycccc/musicgen-if-eval)** · [live demo](https://hycccc.github.io/musicgen-if-eval/) | Instruction-following evaluation workbench for text-to-music — a sanitized 1:1 replica of the production tool I built: requirement decomposition, PE attribution, synced A/B evidence-anchored judging. |
 | **[audio-integrity-toolkit](https://github.com/hycccc/audio-integrity-toolkit)** | Acceptance-gate QC for audio datasets: fake-lossless detection via spectral cutoff, clipping, dynamic range. The ingestion-gate pattern I run at production scale. |
 | **[songscore](https://github.com/hycccc/songscore)** | Three-tier quality scoring for generated songs — DSP rules, reward-model hook, and an anchored LLM judge whose discriminating power is guarded by dispersion regression tests. |

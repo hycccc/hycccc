@@ -16,7 +16,7 @@
 | [musicgen-if-eval](https://github.com/hycccc/musicgen-if-eval) | Instruction-following evaluation for text-to-music models |
 | [data-mix-lab](https://github.com/hycccc/data-mix-lab) | Controlled data-composition experiments: fine-tuning an open video model on different data mixes |
 
-*(Links go live as each repo is polished and published.)*
+Try the [live workbench](https://hycccc.github.io/musicgen-if-eval/) — runs in the browser, no install needed. *(data-mix-lab in progress.)*
 
 ## Elsewhere
 

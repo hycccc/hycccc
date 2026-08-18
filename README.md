@@ -1,5 +1,3 @@
-<img src="headshot.jpg" width="110" align="right" alt="Yuchen Hu">
-
 # Yuchen Hu · 胡雨辰
 
 Music data & evaluation at ByteDance Seed. Recording Arts, Shanghai Conservatory of Music.

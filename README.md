@@ -15,7 +15,6 @@
 | **[songscore](https://github.com/hycccc/songscore)** | Three-tier quality scoring for generated songs — DSP rules, reward-model hook, and an anchored LLM judge whose discriminating power is guarded by dispersion regression tests. |
 | **[data-mix-lab](https://github.com/hycccc/data-mix-lab)** 🚧 | Controlled data-composition experiments on an open video model — same base, same recipe, only the mix varies. |
 
-[![Workbench — synced A/B audio compliance](https://raw.githubusercontent.com/hycccc/musicgen-if-eval/main/docs/step3-audio-compliance.png)](https://hycccc.github.io/musicgen-if-eval/)
 
 ## How I work
 

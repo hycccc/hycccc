@@ -1,6 +1,6 @@
 # Yuchen Hu · 胡雨辰
 
-**Music data & evaluation specialist** — founding member of the music data team at ByteDance Seed, behind a state-of-the-art music generation model. Conservatory-trained (Recording Arts, Shanghai Conservatory of Music).
+Music data & evaluation at ByteDance Seed. Recording Arts, Shanghai Conservatory of Music.
 
 ## Selected work
 

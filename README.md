@@ -14,6 +14,7 @@
 | **[audio-integrity-toolkit](https://github.com/hycccc/audio-integrity-toolkit)** | Acceptance-gate QC for audio datasets: fake-lossless detection via spectral cutoff, clipping, dynamic range. The ingestion-gate pattern I run at production scale. |
 | **[songscore](https://github.com/hycccc/songscore)** | Three-tier quality scoring for generated songs — DSP rules, reward-model hook, and an anchored LLM judge whose discriminating power is guarded by dispersion regression tests. |
 | **[data-mix-lab](https://github.com/hycccc/data-mix-lab)** 🚧 | Controlled data-composition experiments on an open video model — same base, same recipe, only the mix varies. The three-arm mix planner is shipped and property-tested. |
+| **[liner-notes](https://github.com/hycccc/liner-notes)** | Personal-site template for musicians (extracted from [yuchenhu.com](https://yuchenhu.com)): music player, album *workshop*, travel map, agent-written blog. |
 
 
 ## How I work

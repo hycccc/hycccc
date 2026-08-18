@@ -2,8 +2,6 @@
 
 **Music data & evaluation specialist** — founding member of the music data team at ByteDance Seed, behind a state-of-the-art music generation model. Conservatory-trained (Recording Arts, Shanghai Conservatory of Music).
 
-> *I can hear what's missing in the data before I can measure it.*
-
 ## Selected work
 
 | Project | What it shows |

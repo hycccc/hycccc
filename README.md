@@ -6,9 +6,9 @@ Music data & evaluation at ByteDance Seed. Recording Arts, Shanghai Conservatory
 
 | Project | What it shows |
 |---|---|
-| **[soundlabel](https://github.com/hycccc/soundlabel)** | Open-source framework for running an AI music label — `soundlabel demo` runs the full loop with zero API keys: A&R brief → generation → three-tier scoring (DSP rules → reward-model hook → anchored LLM judge) → blind Critic verdict → catalog, plus a Claude Agent SDK ops sidecar. The mothership the projects below plug into. |
-| **[musicgen-if-eval](https://github.com/hycccc/musicgen-if-eval)** · [live demo](https://hycccc.github.io/musicgen-if-eval/) | Instruction-following evaluation workbench for text-to-music — a sanitized 1:1 replica of the production tool I built: requirement decomposition, PE attribution, synced A/B evidence-anchored judging. |
-| **[audio-integrity-toolkit](https://github.com/hycccc/audio-integrity-toolkit)** | Acceptance-gate QC for audio datasets: fake-lossless detection via spectral cutoff, clipping, dynamic range. Extracted from a production ingestion pipeline. |
+| **[soundlabel](https://github.com/hycccc/soundlabel)** | Open-source framework for running an AI music label — `soundlabel demo` runs the full loop with zero API keys: A&R brief → generation → three-tier scoring (DSP rules → reward-model hook → anchored LLM judge) → blind Critic verdict → catalog. The loop closes both ways: a Claude Agent SDK ops sidecar reads the catalog and reviews batches, and listening-room sessions feed human scores back next to the machine ones. The mothership the projects below plug into. |
+| **[musicgen-if-eval](https://github.com/hycccc/musicgen-if-eval)** · [live demo](https://hycccc.github.io/musicgen-if-eval/) | Instruction-following evaluation workbench for text-to-music — a sanitized 1:1 replica of the production tool I built: requirement decomposition, PE attribution, synced A/B evidence-anchored judging. Opens with a guided tour. |
+| **[audio-integrity-toolkit](https://github.com/hycccc/audio-integrity-toolkit)** | Acceptance-gate QC for audio datasets — the three checks an ingestion pipeline runs on every delivery: duplicate clusters (decode-hash + spectral fingerprint), metadata–audio matching, fake-lossless detection. Extracted from a production ingestion pipeline. |
 | **[liner-notes](https://github.com/hycccc/liner-notes)** | Personal-site template for musicians (extracted from [yuchenhu.com](https://yuchenhu.com)): music player, album *workshop*, travel map, agent-written blog. |
 
 

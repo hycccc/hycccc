@@ -9,7 +9,6 @@ Music data & evaluation at ByteDance Seed. Recording Arts, Shanghai Conservatory
 | **[soundlabel](https://github.com/hycccc/soundlabel)** | Open-source framework for running an AI music label — `soundlabel demo` runs the full loop with zero API keys: A&R brief → generation → three-tier scoring (DSP rules → reward-model hook → anchored LLM judge) → blind Critic verdict → catalog, plus a Claude Agent SDK ops sidecar. The mothership the projects below plug into. |
 | **[musicgen-if-eval](https://github.com/hycccc/musicgen-if-eval)** · [live demo](https://hycccc.github.io/musicgen-if-eval/) | Instruction-following evaluation workbench for text-to-music — a sanitized 1:1 replica of the production tool I built: requirement decomposition, PE attribution, synced A/B evidence-anchored judging. |
 | **[audio-integrity-toolkit](https://github.com/hycccc/audio-integrity-toolkit)** | Acceptance-gate QC for audio datasets: fake-lossless detection via spectral cutoff, clipping, dynamic range. Extracted from a production ingestion pipeline. |
-| **[data-mix-lab](https://github.com/hycccc/data-mix-lab)** 🚧 | Controlled data-composition experiments on an open video model — same base, same recipe, only the mix varies. The three-arm mix planner is shipped and property-tested. |
 | **[liner-notes](https://github.com/hycccc/liner-notes)** | Personal-site template for musicians (extracted from [yuchenhu.com](https://yuchenhu.com)): music player, album *workshop*, travel map, agent-written blog. |
 
 
